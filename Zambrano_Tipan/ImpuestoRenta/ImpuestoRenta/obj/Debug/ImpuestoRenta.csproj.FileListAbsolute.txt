@@ -1,0 +1,6 @@
+D:\Alejandro\Documents\Visual Studio 2017\Projects\ImpuestoRenta\ImpuestoRenta\obj\Debug\ImpuestoRenta.csproj.CoreCompileInputs.cache
+D:\Alejandro\Documents\Visual Studio 2017\Projects\ImpuestoRenta\ImpuestoRenta\bin\Debug\ImpuestoRenta.exe.config
+D:\Alejandro\Documents\Visual Studio 2017\Projects\ImpuestoRenta\ImpuestoRenta\bin\Debug\ImpuestoRenta.exe
+D:\Alejandro\Documents\Visual Studio 2017\Projects\ImpuestoRenta\ImpuestoRenta\bin\Debug\ImpuestoRenta.pdb
+D:\Alejandro\Documents\Visual Studio 2017\Projects\ImpuestoRenta\ImpuestoRenta\obj\Debug\ImpuestoRenta.exe
+D:\Alejandro\Documents\Visual Studio 2017\Projects\ImpuestoRenta\ImpuestoRenta\obj\Debug\ImpuestoRenta.pdb
