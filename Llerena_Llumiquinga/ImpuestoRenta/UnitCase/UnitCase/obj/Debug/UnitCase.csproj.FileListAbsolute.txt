@@ -1,0 +1,7 @@
+C:\Users\David\Desktop\UnitCase\UnitCase\bin\Debug\UnitCase.exe.config
+C:\Users\David\Desktop\UnitCase\UnitCase\bin\Debug\UnitCase.exe
+C:\Users\David\Desktop\UnitCase\UnitCase\bin\Debug\UnitCase.pdb
+C:\Users\David\Desktop\UnitCase\UnitCase\obj\Debug\UnitCase.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\UnitCase\UnitCase\obj\Debug\UnitCase.exe
+C:\Users\David\Desktop\UnitCase\UnitCase\obj\Debug\UnitCase.pdb
+C:\Users\David\Desktop\UnitCase\UnitCase\obj\Debug\UnitCase.csprojResolveAssemblyReference.cache
