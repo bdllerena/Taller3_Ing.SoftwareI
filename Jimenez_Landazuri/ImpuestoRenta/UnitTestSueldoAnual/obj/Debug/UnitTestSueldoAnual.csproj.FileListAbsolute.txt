@@ -1,0 +1,55 @@
+c:\users\kelog\source\repos\ImpuestoRenta\UnitTestSueldoAnual\obj\Debug\UnitTestSueldoAnual.csprojResolveAssemblyReference.cache
+c:\users\kelog\source\repos\ImpuestoRenta\UnitTestSueldoAnual\obj\Debug\UnitTestSueldoAnual.csproj.CoreCompileInputs.cache
+c:\users\kelog\source\repos\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\kelog\source\repos\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\kelog\source\repos\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\kelog\source\repos\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+c:\users\kelog\source\repos\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+c:\users\kelog\source\repos\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+c:\users\kelog\source\repos\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\UnitTestSueldoAnual.dll
+c:\users\kelog\source\repos\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\UnitTestSueldoAnual.pdb
+c:\users\kelog\source\repos\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\ImpuestoRenta.exe
+c:\users\kelog\source\repos\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\kelog\source\repos\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\kelog\source\repos\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\ImpuestoRenta.pdb
+c:\users\kelog\source\repos\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\ImpuestoRenta.exe.config
+c:\users\kelog\source\repos\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\kelog\source\repos\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\kelog\source\repos\ImpuestoRenta\UnitTestSueldoAnual\obj\Debug\UnitTestSueldoAnual.dll
+c:\users\kelog\source\repos\ImpuestoRenta\UnitTestSueldoAnual\obj\Debug\UnitTestSueldoAnual.pdb
+C:\Users\Ordenador\Desktop\ASP.net MVC\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ordenador\Desktop\ASP.net MVC\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ordenador\Desktop\ASP.net MVC\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ordenador\Desktop\ASP.net MVC\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Ordenador\Desktop\ASP.net MVC\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Ordenador\Desktop\ASP.net MVC\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Ordenador\Desktop\ASP.net MVC\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\UnitTestSueldoAnual.dll
+C:\Users\Ordenador\Desktop\ASP.net MVC\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\UnitTestSueldoAnual.pdb
+C:\Users\Ordenador\Desktop\ASP.net MVC\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\ImpuestoRenta.exe
+C:\Users\Ordenador\Desktop\ASP.net MVC\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ordenador\Desktop\ASP.net MVC\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ordenador\Desktop\ASP.net MVC\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\ImpuestoRenta.pdb
+C:\Users\Ordenador\Desktop\ASP.net MVC\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ordenador\Desktop\ASP.net MVC\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ordenador\Desktop\ASP.net MVC\ImpuestoRenta\UnitTestSueldoAnual\obj\Debug\UnitTestSueldoAnual.csprojResolveAssemblyReference.cache
+C:\Users\Ordenador\Desktop\ASP.net MVC\ImpuestoRenta\UnitTestSueldoAnual\obj\Debug\UnitTestSueldoAnual.dll
+C:\Users\Ordenador\Desktop\ASP.net MVC\ImpuestoRenta\UnitTestSueldoAnual\obj\Debug\UnitTestSueldoAnual.pdb
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\UnitTestSueldoAnual.dll
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\UnitTestSueldoAnual.pdb
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\ImpuestoRenta.exe
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\ImpuestoRenta.pdb
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\ImpuestoRenta.exe.config
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\UnitTestSueldoAnual\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\UnitTestSueldoAnual\obj\Debug\UnitTestSueldoAnual.csprojResolveAssemblyReference.cache
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\UnitTestSueldoAnual\obj\Debug\UnitTestSueldoAnual.csproj.CoreCompileInputs.cache
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\UnitTestSueldoAnual\obj\Debug\UnitTestSueldoAnual.dll
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\UnitTestSueldoAnual\obj\Debug\UnitTestSueldoAnual.pdb

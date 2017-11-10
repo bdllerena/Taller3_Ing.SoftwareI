@@ -1,0 +1,19 @@
+c:\users\kelog\source\repos\ImpuestoRenta\ImpuestoRenta\obj\Debug\ImpuestoRenta.csproj.CoreCompileInputs.cache
+c:\users\kelog\source\repos\ImpuestoRenta\ImpuestoRenta\bin\Debug\ImpuestoRenta.exe.config
+c:\users\kelog\source\repos\ImpuestoRenta\ImpuestoRenta\bin\Debug\ImpuestoRenta.exe
+c:\users\kelog\source\repos\ImpuestoRenta\ImpuestoRenta\bin\Debug\ImpuestoRenta.pdb
+c:\users\kelog\source\repos\ImpuestoRenta\ImpuestoRenta\obj\Debug\ImpuestoRenta.exe
+c:\users\kelog\source\repos\ImpuestoRenta\ImpuestoRenta\obj\Debug\ImpuestoRenta.pdb
+C:\Users\Ordenador\Desktop\ASP.net MVC\ImpuestoRenta\ImpuestoRenta\bin\Debug\ImpuestoRenta.exe.config
+C:\Users\Ordenador\Desktop\ASP.net MVC\ImpuestoRenta\ImpuestoRenta\obj\Debug\ImpuestoRenta.exe
+C:\Users\Ordenador\Desktop\ASP.net MVC\ImpuestoRenta\ImpuestoRenta\obj\Debug\ImpuestoRenta.pdb
+C:\Users\Ordenador\Desktop\ASP.net MVC\ImpuestoRenta\ImpuestoRenta\bin\Debug\ImpuestoRenta.exe
+C:\Users\Ordenador\Desktop\ASP.net MVC\ImpuestoRenta\ImpuestoRenta\bin\Debug\ImpuestoRenta.pdb
+C:\Users\Ordenador\Desktop\ASP.net MVC\ImpuestoRenta\ImpuestoRenta\obj\Debug\ImpuestoRenta.csprojResolveAssemblyReference.cache
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\ImpuestoRenta\bin\Debug\ImpuestoRenta.exe.config
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\ImpuestoRenta\bin\Debug\ImpuestoRenta.exe
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\ImpuestoRenta\bin\Debug\ImpuestoRenta.pdb
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\ImpuestoRenta\obj\Debug\ImpuestoRenta.csprojResolveAssemblyReference.cache
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\ImpuestoRenta\obj\Debug\ImpuestoRenta.csproj.CoreCompileInputs.cache
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\ImpuestoRenta\obj\Debug\ImpuestoRenta.exe
+C:\Users\kelog\Documents\Sexto\Ing. de Software\ImpuestoRenta\ImpuestoRenta\obj\Debug\ImpuestoRenta.pdb
