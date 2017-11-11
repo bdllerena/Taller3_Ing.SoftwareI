@@ -1,0 +1,13 @@
+c:\users\david\documents\visual studio 2013\Projects\ImpuestoRenta\ImpuestoRenta\bin\Debug\ImpuestoRenta.exe.config
+c:\users\david\documents\visual studio 2013\Projects\ImpuestoRenta\ImpuestoRenta\bin\Debug\ImpuestoRenta.exe
+c:\users\david\documents\visual studio 2013\Projects\ImpuestoRenta\ImpuestoRenta\bin\Debug\ImpuestoRenta.pdb
+c:\users\david\documents\visual studio 2013\Projects\ImpuestoRenta\ImpuestoRenta\obj\Debug\ImpuestoRenta.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2013\Projects\ImpuestoRenta\ImpuestoRenta\obj\Debug\ImpuestoRenta.exe
+c:\users\david\documents\visual studio 2013\Projects\ImpuestoRenta\ImpuestoRenta\obj\Debug\ImpuestoRenta.pdb
+C:\Users\SecoPayo\Desktop\ImpuestoRenta\ImpuestoRenta\bin\Debug\ImpuestoRenta.exe.config
+C:\Users\SecoPayo\Desktop\ImpuestoRenta\ImpuestoRenta\bin\Debug\ImpuestoRenta.exe
+C:\Users\SecoPayo\Desktop\ImpuestoRenta\ImpuestoRenta\bin\Debug\ImpuestoRenta.pdb
+C:\Users\SecoPayo\Desktop\ImpuestoRenta\ImpuestoRenta\obj\Debug\ImpuestoRenta.csprojResolveAssemblyReference.cache
+C:\Users\SecoPayo\Desktop\ImpuestoRenta\ImpuestoRenta\obj\Debug\ImpuestoRenta.csproj.CoreCompileInputs.cache
+C:\Users\SecoPayo\Desktop\ImpuestoRenta\ImpuestoRenta\obj\Debug\ImpuestoRenta.exe
+C:\Users\SecoPayo\Desktop\ImpuestoRenta\ImpuestoRenta\obj\Debug\ImpuestoRenta.pdb

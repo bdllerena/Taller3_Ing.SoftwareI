@@ -1,0 +1,17 @@
+c:\users\david\documents\visual studio 2013\Projects\ImpuestoRenta\PruebaUnitariaImpuesto\bin\Debug\PruebaUnitariaImpuesto.dll
+c:\users\david\documents\visual studio 2013\Projects\ImpuestoRenta\PruebaUnitariaImpuesto\bin\Debug\PruebaUnitariaImpuesto.pdb
+c:\users\david\documents\visual studio 2013\Projects\ImpuestoRenta\PruebaUnitariaImpuesto\bin\Debug\ImpuestoRenta.exe
+c:\users\david\documents\visual studio 2013\Projects\ImpuestoRenta\PruebaUnitariaImpuesto\bin\Debug\ImpuestoRenta.pdb
+c:\users\david\documents\visual studio 2013\Projects\ImpuestoRenta\PruebaUnitariaImpuesto\obj\Debug\PruebaUnitariaImpuesto.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2013\Projects\ImpuestoRenta\PruebaUnitariaImpuesto\obj\Debug\PruebaUnitariaImpuesto.dll
+c:\users\david\documents\visual studio 2013\Projects\ImpuestoRenta\PruebaUnitariaImpuesto\obj\Debug\PruebaUnitariaImpuesto.pdb
+C:\Users\SecoPayo\Desktop\ImpuestoRenta\PruebaUnitariaImpuesto\bin\Debug\PruebaUnitariaImpuesto.dll
+C:\Users\SecoPayo\Desktop\ImpuestoRenta\PruebaUnitariaImpuesto\bin\Debug\PruebaUnitariaImpuesto.pdb
+C:\Users\SecoPayo\Desktop\ImpuestoRenta\PruebaUnitariaImpuesto\bin\Debug\ImpuestoRenta.exe
+C:\Users\SecoPayo\Desktop\ImpuestoRenta\PruebaUnitariaImpuesto\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\SecoPayo\Desktop\ImpuestoRenta\PruebaUnitariaImpuesto\bin\Debug\ImpuestoRenta.pdb
+C:\Users\SecoPayo\Desktop\ImpuestoRenta\PruebaUnitariaImpuesto\bin\Debug\ImpuestoRenta.exe.config
+C:\Users\SecoPayo\Desktop\ImpuestoRenta\PruebaUnitariaImpuesto\obj\Debug\PruebaUnitariaImpuesto.csprojResolveAssemblyReference.cache
+C:\Users\SecoPayo\Desktop\ImpuestoRenta\PruebaUnitariaImpuesto\obj\Debug\PruebaUnitariaImpuesto.csproj.CoreCompileInputs.cache
+C:\Users\SecoPayo\Desktop\ImpuestoRenta\PruebaUnitariaImpuesto\obj\Debug\PruebaUnitariaImpuesto.dll
+C:\Users\SecoPayo\Desktop\ImpuestoRenta\PruebaUnitariaImpuesto\obj\Debug\PruebaUnitariaImpuesto.pdb
