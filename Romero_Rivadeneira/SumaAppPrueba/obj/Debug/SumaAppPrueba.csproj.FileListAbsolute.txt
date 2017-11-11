@@ -1,0 +1,7 @@
+C:\Users\yurym\source\repos\AppParaPruebaIngSoftware\SumaAppPrueba\bin\Debug\SumaAppPrueba.exe.config
+C:\Users\yurym\source\repos\AppParaPruebaIngSoftware\SumaAppPrueba\bin\Debug\SumaAppPrueba.exe
+C:\Users\yurym\source\repos\AppParaPruebaIngSoftware\SumaAppPrueba\bin\Debug\SumaAppPrueba.pdb
+C:\Users\yurym\source\repos\AppParaPruebaIngSoftware\SumaAppPrueba\obj\Debug\SumaAppPrueba.csprojResolveAssemblyReference.cache
+C:\Users\yurym\source\repos\AppParaPruebaIngSoftware\SumaAppPrueba\obj\Debug\SumaAppPrueba.csproj.CoreCompileInputs.cache
+C:\Users\yurym\source\repos\AppParaPruebaIngSoftware\SumaAppPrueba\obj\Debug\SumaAppPrueba.exe
+C:\Users\yurym\source\repos\AppParaPruebaIngSoftware\SumaAppPrueba\obj\Debug\SumaAppPrueba.pdb
