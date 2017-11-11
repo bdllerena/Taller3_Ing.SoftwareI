@@ -1,0 +1,21 @@
+c:\Users\H201m04\documents\visual studio 2013\Projects\Taller\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\Users\H201m04\documents\visual studio 2013\Projects\Taller\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\Users\H201m04\documents\visual studio 2013\Projects\Taller\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\Users\H201m04\documents\visual studio 2013\Projects\Taller\UnitTestProject1\bin\Debug\Taller.exe
+c:\Users\H201m04\documents\visual studio 2013\Projects\Taller\UnitTestProject1\bin\Debug\Taller.pdb
+c:\Users\H201m04\documents\visual studio 2013\Projects\Taller\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\Users\H201m04\documents\visual studio 2013\Projects\Taller\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+E:\Taller\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\Taller\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\Taller\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+E:\Taller\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\Taller\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\Taller\UnitTestProject1\bin\Debug\Taller.exe
+E:\Taller\UnitTestProject1\bin\Debug\Taller.pdb
+C:\Users\w8\Documents\SextoSemestre\Software I\Taller\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\w8\Documents\SextoSemestre\Software I\Taller\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\w8\Documents\SextoSemestre\Software I\Taller\UnitTestProject1\bin\Debug\Taller.exe
+C:\Users\w8\Documents\SextoSemestre\Software I\Taller\UnitTestProject1\bin\Debug\Taller.pdb
+C:\Users\w8\Documents\SextoSemestre\Software I\Taller\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\w8\Documents\SextoSemestre\Software I\Taller\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\w8\Documents\SextoSemestre\Software I\Taller\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

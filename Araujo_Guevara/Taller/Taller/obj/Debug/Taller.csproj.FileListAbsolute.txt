@@ -1,0 +1,18 @@
+c:\users\h201m04\documents\visual studio 2013\Projects\Taller\Taller\bin\Debug\Taller.exe.config
+c:\users\h201m04\documents\visual studio 2013\Projects\Taller\Taller\obj\Debug\Taller.csprojResolveAssemblyReference.cache
+c:\users\h201m04\documents\visual studio 2013\Projects\Taller\Taller\bin\Debug\Taller.exe
+c:\users\h201m04\documents\visual studio 2013\Projects\Taller\Taller\bin\Debug\Taller.pdb
+c:\users\h201m04\documents\visual studio 2013\Projects\Taller\Taller\obj\Debug\Taller.exe
+c:\users\h201m04\documents\visual studio 2013\Projects\Taller\Taller\obj\Debug\Taller.pdb
+E:\Taller\Taller\bin\Debug\Taller.exe.config
+E:\Taller\Taller\obj\Debug\Taller.exe
+E:\Taller\Taller\obj\Debug\Taller.pdb
+E:\Taller\Taller\bin\Debug\Taller.exe
+E:\Taller\Taller\bin\Debug\Taller.pdb
+E:\Taller\Taller\obj\Debug\Taller.csprojResolveAssemblyReference.cache
+C:\Users\w8\Documents\SextoSemestre\Software I\Taller\Taller\bin\Debug\Taller.exe.config
+C:\Users\w8\Documents\SextoSemestre\Software I\Taller\Taller\obj\Debug\Taller.exe
+C:\Users\w8\Documents\SextoSemestre\Software I\Taller\Taller\obj\Debug\Taller.pdb
+C:\Users\w8\Documents\SextoSemestre\Software I\Taller\Taller\bin\Debug\Taller.exe
+C:\Users\w8\Documents\SextoSemestre\Software I\Taller\Taller\bin\Debug\Taller.pdb
+C:\Users\w8\Documents\SextoSemestre\Software I\Taller\Taller\obj\Debug\Taller.csprojResolveAssemblyReference.cache
