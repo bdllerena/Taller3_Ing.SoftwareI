@@ -1,0 +1,7 @@
+c:\Users\H201m06\documents\visual studio 2013\Projects\Proyecto\UnitTestOperations\obj\Debug\UnitTestOperations.csprojResolveAssemblyReference.cache
+c:\Users\H201m06\documents\visual studio 2013\Projects\Proyecto\UnitTestOperations\bin\Debug\UnitTestOperations.dll
+c:\Users\H201m06\documents\visual studio 2013\Projects\Proyecto\UnitTestOperations\bin\Debug\UnitTestOperations.pdb
+c:\Users\H201m06\documents\visual studio 2013\Projects\Proyecto\UnitTestOperations\bin\Debug\Proyecto.exe
+c:\Users\H201m06\documents\visual studio 2013\Projects\Proyecto\UnitTestOperations\bin\Debug\Proyecto.pdb
+c:\Users\H201m06\documents\visual studio 2013\Projects\Proyecto\UnitTestOperations\obj\Debug\UnitTestOperations.dll
+c:\Users\H201m06\documents\visual studio 2013\Projects\Proyecto\UnitTestOperations\obj\Debug\UnitTestOperations.pdb

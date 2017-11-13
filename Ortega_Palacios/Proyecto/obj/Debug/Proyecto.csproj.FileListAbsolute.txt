@@ -1,0 +1,6 @@
+c:\users\h201m06\documents\visual studio 2013\Projects\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+c:\users\h201m06\documents\visual studio 2013\Projects\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+c:\users\h201m06\documents\visual studio 2013\Projects\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+c:\users\h201m06\documents\visual studio 2013\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+c:\users\h201m06\documents\visual studio 2013\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+c:\users\h201m06\documents\visual studio 2013\Projects\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
