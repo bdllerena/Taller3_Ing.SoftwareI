@@ -8,7 +8,7 @@ namespace UnitImpuestoRenta
     {
         TablaImpuesto tabla = new TablaImpuesto();
         [TestMethod]
-        public void TestMethod1()
+        public void TestCalcularSueldo1()
         {
             int sueldoACalcular = 350;
             int sueldoExpected = 3803;
@@ -17,7 +17,7 @@ namespace UnitImpuestoRenta
         }
 
         [TestMethod]
-        public void TestMethod2()
+        public void TestCalcularSueldo2()
         {
             int sueldoACalcular = 1000;
             int sueldoExpected = 10866;
@@ -26,7 +26,7 @@ namespace UnitImpuestoRenta
         }
 
         [TestMethod]
-        public void TestMethod3()
+        public void TestCalcularSueldo3()
         {
             int sueldoACalcular = 1100;
             int sueldoExpected = 11952;
@@ -35,7 +35,7 @@ namespace UnitImpuestoRenta
         }
 
         [TestMethod]
-        public void TestMethod4()
+        public void TestCalcularSueldo4()
         {
             int sueldoACalcular = 2500;
             int sueldoExpected = 27165;
@@ -44,7 +44,7 @@ namespace UnitImpuestoRenta
         }
 
         [TestMethod]
-        public void TestMethod5()
+        public void TestCalcularSueldo5()
         {
             int sueldoACalcular = 0;
             int sueldoExpected = 0;
@@ -53,7 +53,7 @@ namespace UnitImpuestoRenta
         }
 
         [TestMethod]
-        public void TestMethod6()
+        public void TestCalcularSueldo6()
         {
             int sueldoACalcular = -10;
             int sueldoExpected = 0;
